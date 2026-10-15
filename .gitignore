@@ -1,0 +1,6 @@
+target/
+.mvn/
+*.class
+*.log
+.env
+application-local.properties
